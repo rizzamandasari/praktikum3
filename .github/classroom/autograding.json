@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Jurnal01",
+      "setup": "",
+      "run": "gradle test --tests TestJurnal01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Jurnal02",
+      "setup": "",
+      "run": "gradle test --tests TestJurnal02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Jurnal03",
+      "setup": "",
+      "run": "gradle test --tests TestJurnal03",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 40
+    },
+    {
+      "name": "TP01",
+      "setup": "",
+      "run": "gradle test --tests TestTP01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "TP02",
+      "setup": "",
+      "run": "gradle test --tests TestTP02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "TP03",
+      "setup": "",
+      "run": "gradle test --tests TestTP03",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
