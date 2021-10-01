@@ -1,4 +1,4 @@
-package org.d3ifcool.ima04;
+package org.d3ifcool.ima03;
 
 public class Jurnal01 {
 
